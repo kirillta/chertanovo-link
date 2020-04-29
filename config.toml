@@ -1,0 +1,8 @@
+baseURL = "http://chertanovo.link/"
+languageCode = "en-us"
+title = "South Chertanovo Records"
+theme = "detox"
+
+[Params]
+    author = "South Chertanovo Records"
+    description = "We're Working on It"
