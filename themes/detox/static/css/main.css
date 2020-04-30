@@ -955,6 +955,12 @@ article.li {
     display: flex;
 }
 
+@media (max-width: 768px) {
+    .presentation-block {
+        display: block;
+    }
+}
+
 .presentation-block.column {
     flex: 40%;
     padding: 1em;
@@ -982,20 +988,40 @@ article.li {
     width: 100%;
 }
 
-.tracklist.title > div > span {
+.explicit {
     font-size: 0.5em;
     vertical-align: text-top;
+    opacity: 0.8;
+}
+
+.feat {
+    font-size: 0.8em;
+    opacity: 0.8;
 }
 
 .tracklist.length {
     flex: 15%;
     min-width: 2em;
     text-align: end;
+    white-space: nowrap;
 }
 
 .service-logo {
     height: 2em;
     margin-bottom: 2em;
+}
+
+@media (max-width: 768px) {
+    .service-logo {
+        height: 3em;
+        width: 40%;
+        margin: 1em 0;
+    }
+    
+    .service-logo > a {
+        min-height: 100%; 
+        width: auto;
+    }
 }
 
 .preview > a {

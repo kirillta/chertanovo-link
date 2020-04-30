@@ -27,10 +27,10 @@
                             <div>
                                 {{ $track.title }}&nbsp;
                                 {{ with $track.feat }}
-                                    <span>feat. {{ $track.feat }}</span>&nbsp;
+                                    <span class="feat">feat. {{ $track.feat }}</span>&nbsp;
                                 {{ end }}
                                 {{ with $track.is_explicit }}
-                                    <span>🅴</span>
+                                    <span class="explicit">🅴</span>
                                 {{ end }}
                             </div>
                         </div>
