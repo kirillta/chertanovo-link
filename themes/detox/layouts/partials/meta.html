@@ -20,7 +20,7 @@
     {{ if .IsPage }}
         <meta property="og:type" content="music.album" />
         <meta property="og:title" content="{{ .Page.Params.author }} — {{ .Page.Params.title }}" />
-        <meta property="og:description" content="Listen our music on your favourite streaming platform">
+        <meta property="og:description" content="{{ .Site.Title }}. {{ .Site.Params.description }}">
         <meta property="og:music:release_date" content="{{ .Date.Format "2006-01-02" | safeHTML }}" />
         <meta property="og:image" content="{{ $.Site.BaseURL }}img/{{ .Page.Params.cover }}" />
     {{ else }}
