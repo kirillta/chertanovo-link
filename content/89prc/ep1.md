@@ -3,7 +3,7 @@ title: "89%"
 date: 2014-04-12T00:00:00+00:00
 draft: false
 author: "89%"
-cover: "/img/89prc/89prc-ep1-large.jpg"
+cover: "89prc/89prc-ep1-large.jpg"
 tracks: [
     { title: "Верь в чудеса", length: "02:36", is_explicit: false },
     { title: "Кто сказал, что я зассал?", length: "03:07", is_explicit: false },

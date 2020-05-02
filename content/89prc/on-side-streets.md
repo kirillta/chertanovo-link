@@ -3,7 +3,7 @@ title: "На переулках"
 date: 2020-04-28T00:00:00+00:00
 draft: false
 author: "89%"
-cover: "/img/89prc/89prc-on-side-street-large.jpg"
+cover: "89prc/89prc-on-side-street-large.jpg"
 tracks: [
     { title: "Новый день", length: "00:44", is_explicit: false },
     { title: "Улицы", length: "02:10", is_explicit: false },

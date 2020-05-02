@@ -3,7 +3,7 @@ title: "Вне времени"
 date: 2019-07-19T00:00:00+00:00
 draft: false
 author: "89%"
-cover: "/img/89prc/89prc-out-of-time-large.jpg"
+cover: "89prc/89prc-out-of-time-large.jpg"
 tracks: [
     { title: "Верь в чудеса (Live)", length: "02:27", is_explicit: false },
     { title: "Улицы (Live)", length: "02:00", is_explicit: false },

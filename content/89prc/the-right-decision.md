@@ -3,7 +3,7 @@ title: "Верное решение!"
 date: 2017-12-22T00:00:00+00:00
 draft: false
 author: "89%"
-cover: "/img/89prc/89prc-the-right-decision-large.jpg"
+cover: "89prc/89prc-the-right-decision-large.jpg"
 tracks: [
     { title: "Верное решение!", length: "00:50", is_explicit: false },
     { title: "22", length: "02:06", is_explicit: false },

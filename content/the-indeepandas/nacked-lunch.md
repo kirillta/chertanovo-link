@@ -3,7 +3,7 @@ title: "Nacked Lunch"
 date: 2015-07-02T00:00:00+00:00
 draft: false
 author: "the indeepandas"
-cover: "/img/the-indeepandas/the-indeepandas-nacked-lunch-large.jpg"
+cover: "the-indeepandas/the-indeepandas-nacked-lunch-large.jpg"
 tracks: [
     { title: "Cranberry Blues", length: "03:12", is_explicit: false },
     { title: "Engineer", length: "02:31", is_explicit: false },

@@ -3,7 +3,7 @@ title: "Туканы"
 date: 2017-12-14T00:00:00+00:00
 draft: false
 author: "89%"
-cover: "/img/89prc/89prc-toucans-large.jpg"
+cover: "89prc/89prc-toucans-large.jpg"
 tracks: [
     { title: "Туканы", length: "01:17", is_explicit: true }
 ]

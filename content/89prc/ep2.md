@@ -3,7 +3,7 @@ title: "89%"
 date: 2014-11-16T00:00:00+00:00
 draft: false
 author: "89%"
-cover: "/img/89prc/89prc-ep2-large.jpg"
+cover: "89prc/89prc-ep2-large.jpg"
 tracks: [
     { title: "Песня No. 1", length: "02:54", is_explicit: true },
     { title: "Лето наступило", length: "02:21", is_explicit: false },

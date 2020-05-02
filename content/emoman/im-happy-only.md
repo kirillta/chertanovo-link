@@ -3,7 +3,7 @@ title: "I'm Happy Only with Those Who Are Lost and Lonely"
 date: 2016-09-11T00:00:00+00:00
 draft: false
 author: "Emoman"
-cover: "/img/emoman/emoman-im-happy-only-large.jpg"
+cover: "emoman/emoman-im-happy-only-large.jpg"
 tracks: [
     { title: "XXIV: The Harbinger", length: "04:52", is_explicit: false },
     { title: "103", length: "04:06", is_explicit: false },

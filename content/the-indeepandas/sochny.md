@@ -3,7 +3,7 @@ title: "Sochny"
 date: 2014-09-01T00:00:00+00:00
 draft: false
 author: "the indeepandas"
-cover: "/img/the-indeepandas/the-indeepandas-sochny-large.jpg"
+cover: "the-indeepandas/the-indeepandas-sochny-large.jpg"
 tracks: [
     { title: "Intoxicated Bubmlebee", length: "02:37", is_explicit: false },
     { title: "Red Stains", length: "02:42", is_explicit: false },

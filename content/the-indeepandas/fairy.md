@@ -3,7 +3,7 @@ title: "Fairy"
 date: 2012-04-09T00:00:00+00:00
 draft: false
 author: "the indeepandas"
-cover: "/img/the-indeepandas/the-indeepandas-fairy-large.jpg"
+cover: "the-indeepandas/the-indeepandas-fairy-large.jpg"
 tracks: [
     { title: "... to Remember", length: "03:06", is_explicit: true },
     { title: "My Son", length: "02:20", is_explicit: false },

@@ -17,14 +17,15 @@
 	{{ end }}
         <meta property="og:site_name" content="{{ .Site.Title }}">
         <meta property="og:url" content="{{ .Permalink }}">
-        <meta property="og:description" content="{{ .Site.Params.description }}">
     {{ if .IsPage }}
         <meta property="og:type" content="music.album" />
         <meta property="og:title" content="{{ .Page.Params.author }} — {{ .Page.Params.title }}" />
+        <meta property="og:description" content="Listen our music on your favourite streaming platform">
         <meta property="og:music:release_date" content="{{ .Date.Format "2006-01-02" | safeHTML }}" />
-        <meta property="og:image" content="{{ $.Site.BaseURL }}{{ .Page.Params.cover }}" />
+        <meta property="og:image" content="{{ $.Site.BaseURL }}img/{{ .Page.Params.cover }}" />
     {{ else }}
         <meta property="og:title" content="{{ .Site.Title }}">
         <meta property="og:type" content="website" />
+        <meta property="og:description" content="{{ .Site.Params.description }}">
     {{ end }}
         {{ .Hugo.Generator }}
