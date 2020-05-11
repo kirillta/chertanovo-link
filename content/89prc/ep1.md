@@ -14,10 +14,11 @@ tracks: [
     { title: "Начало дня", length: "02:59", is_explicit: false }
 ]
 services: [
-    { type: "apple", url: "https://music.apple.com/us/album/self-titled/869315613"},
-    { type: "deezer", url: "https://www.deezer.com/ru/album/8458605"},
-    { type: "yandex", url: "https://music.yandex.ru/artist/2895131"},
-    { type: "youtube", url: "https://music.youtube.com/playlist?list=OLAK5uy_k7_mQJd5RsUrwGCadQgxEBPmRlfAf9-iU"}
+    { type: "apple", url: "https://music.apple.com/us/album/self-titled/869315613" },
+    { type: "deezer", url: "https://www.deezer.com/ru/album/8458605" },
+    { type: "yandex", url: "https://music.yandex.ru/artist/2895131" },
+    { type: "youtube", url: "https://music.youtube.com/playlist?list=OLAK5uy_k7_mQJd5RsUrwGCadQgxEBPmRlfAf9-iU" },
+    { type: "vk", url: "https://vk.com/music/album/-2000224565_6224565_53ae8c208a681e2f0c" }
 ]
 tags: 
     - "89%"

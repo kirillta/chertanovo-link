@@ -1011,6 +1011,12 @@ article.li {
     margin-bottom: 2em;
 }
 
+.vk {
+    position: relative;
+    left: -2em;
+    top: -2em;
+}
+
 @media (max-width: 768px) {
     .service-logo {
         height: 3em;

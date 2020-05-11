@@ -10,11 +10,11 @@ tracks: [
     { title: "Малая (2012 Remastered)", length: "04:33", is_explicit: true }
 ]
 services: [
-    { type: "apple", url: "https://music.apple.com/us/album/sochny-single/912542614"},
-    { type: "deezer", url: "https://www.deezer.com/ru/album/8752991"},
-    { type: "spotify", url: "https://open.spotify.com/album/0ZAk9kiICZucwKbwijXRot"},
-    { type: "yandex", url: "https://music.yandex.ru/album/2144179"},
-    { type: "youtube", url: "https://music.youtube.com/playlist?list=OLAK5uy_m5ytlX6ebs4-49awMM-Px0DFBh_HlTIKk"}
+    { type: "apple", url: "https://music.apple.com/us/album/sochny-single/912542614" },
+    { type: "deezer", url: "https://www.deezer.com/ru/album/8752991" },
+    { type: "spotify", url: "https://open.spotify.com/album/0ZAk9kiICZucwKbwijXRot" },
+    { type: "yandex", url: "https://music.yandex.ru/album/2144179" },
+    { type: "youtube", url: "https://music.youtube.com/playlist?list=OLAK5uy_m5ytlX6ebs4-49awMM-Px0DFBh_HlTIKk" }
 ]
 tags: 
     - "the indeepandas"

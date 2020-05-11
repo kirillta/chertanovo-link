@@ -19,11 +19,12 @@ tracks: [
     { title: "I Love (S&M)", length: "02:55", is_explicit: false }
 ]
 services: [
-    { type: "apple", url: "https://music.apple.com/us/album/naked-lunch/1015800178"},
-    { type: "deezer", url: "https://www.deezer.com/ru/album/10765202"},
-    { type: "spotify", url: "https://open.spotify.com/album/7mNDAK9znFcW3y09hf3EFI"},
-    { type: "yandex", url: "https://music.yandex.ru/album/2843313"},
-    { type: "youtube", url: "https://music.youtube.com/playlist?list=OLAK5uy_kApLrpIi6BdyymRqK-EUX7hORQB3dLtgM"}
+    { type: "apple", url: "https://music.apple.com/us/album/naked-lunch/1015800178" },
+    { type: "deezer", url: "https://www.deezer.com/ru/album/10765202" },
+    { type: "spotify", url: "https://open.spotify.com/album/7mNDAK9znFcW3y09hf3EFI" },
+    { type: "yandex", url: "https://music.yandex.ru/album/2843313" },
+    { type: "youtube", url: "https://music.youtube.com/playlist?list=OLAK5uy_kApLrpIi6BdyymRqK-EUX7hORQB3dLtgM" },
+    { type: "vk", url: "https://vk.com/music/album/-2000045659_5045659_af91c9ba82c78e7912" }
 ]
 tags: 
     - "the indeepandas"

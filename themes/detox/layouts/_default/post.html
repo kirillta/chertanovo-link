@@ -47,31 +47,37 @@
                 {{ if (eq $service.type "apple") }}
                     <div class="service-logo">
                         <a href="{{ $service.url }}">
-                            <img id="apple" src="/img/services/US-UK_Apple_Music_Badge_RGB.svg"/>
+                            <img id="{{ $service.type }}-logo" src="/img/services/US-UK_Apple_Music_Badge_RGB.svg"/>
                         </a>
                     </div>
                 {{ else if (eq $service.type "deezer") }}
                     <div class="service-logo">
                         <a href="{{ $service.url }}">
-                        <img id="deezer" src="/img/services/Deezer_Logo_RVB_MonoBlack.svg"/>
+                        <img id="{{ $service.type }}-logo" src="/img/services/Deezer_Logo_RVB_MonoBlack.svg"/>
                         </a>
                     </div>
                 {{ else if (eq $service.type "spotify") }}
                     <div class="service-logo">
                         <a href="{{ $service.url }}">
-                        <img id="spotify" src="/img/services/Spotify_Logo_RGB_Black.png"/>
+                        <img id="{{ $service.type }}-logo" src="/img/services/Spotify_Logo_RGB_Black.png"/>
                         </a>
                     </div>
                 {{ else if (eq $service.type "yandex") }}
                     <div class="service-logo">
                         <a href="{{ $service.url }}">
-                        <img id="yandex" src="/img/services/logo_semantic_horizontal_black.svg"/>
+                        <img id="{{ $service.type }}-logo" src="/img/services/logo_semantic_horizontal_black.svg"/>
                         </a>
                     </div>
                 {{ else if (eq $service.type "youtube") }}
                     <div class="service-logo">
                         <a href="{{ $service.url }}">
-                            <img id="youtube" src="/img/services/yt_logo_mono_light.png"/>
+                            <img id="{{ $service.type }}-logo" src="/img/services/yt_logo_mono_light.png"/>
+                        </a>
+                    </div>
+                {{ else if (eq $service.type "vk") }}
+                    <div class="service-logo {{ $service.type }}">
+                        <a href="{{ $service.url }}">
+                        <img id="{{ $service.type }}-logo" src="/img/services/VK_Black&White_Logo.svg"/>
                         </a>
                     </div>
                 {{ end }}

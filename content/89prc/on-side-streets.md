@@ -15,11 +15,12 @@ tracks: [
     { title: "Промолчу", length: "01:54", is_explicit: false }
 ]
 services: [
-    { type: "apple", url: "https://music.apple.com/us/album/на-переулках/1507880765"},
-    { type: "deezer", url: "https://www.deezer.com/ru/album/141765432"},
-    { type: "spotify", url: "https://open.spotify.com/album/67QfoCuI3VrxuPnX3z6lHT"},
-    { type: "yandex", url: "https://music.yandex.ru/album/10421034"},
-    { type: "youtube", url: "https://music.youtube.com/playlist?list=OLAK5uy_nzNNXubH-CgByHM1b6av0bP2iTn2snuU8"}
+    { type: "apple", url: "https://music.apple.com/us/album/на-переулках/1507880765" },
+    { type: "deezer", url: "https://www.deezer.com/ru/album/141765432" },
+    { type: "spotify", url: "https://open.spotify.com/album/67QfoCuI3VrxuPnX3z6lHT" },
+    { type: "yandex", url: "https://music.yandex.ru/album/10421034" },
+    { type: "youtube", url: "https://music.youtube.com/playlist?list=OLAK5uy_nzNNXubH-CgByHM1b6av0bP2iTn2snuU8" },
+    { type: "vk", url: "https://vk.com/music/album/-2000193434_7193434_0c80a57a308084c2d6" }
 ]
 tags: 
     - "89%"

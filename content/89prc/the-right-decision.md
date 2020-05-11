@@ -15,11 +15,12 @@ tracks: [
     { title: "Сомненья позади", length: "02:31", is_explicit: false }
 ]
 services: [
-    { type: "apple", url: "https://music.apple.com/us/album/верное-решение/1327539845"},
-    { type: "deezer", url: "https://www.deezer.com/ru/album/53887792"},
-    { type: "spotify", url: "https://open.spotify.com/album/6H53QsLVx822iyoGXn2ZpO"},
-    { type: "yandex", url: "https://music.yandex.ru/album/4928890"},
-    { type: "youtube", url: "https://music.youtube.com/playlist?list=OLAK5uy_kd5O8kfjFv-VdtXbSs18jZTtnQfC5A7kA"}
+    { type: "apple", url: "https://music.apple.com/us/album/верное-решение/1327539845" },
+    { type: "deezer", url: "https://www.deezer.com/ru/album/53887792" },
+    { type: "spotify", url: "https://open.spotify.com/album/6H53QsLVx822iyoGXn2ZpO" },
+    { type: "yandex", url: "https://music.yandex.ru/album/4928890" },
+    { type: "youtube", url: "https://music.youtube.com/playlist?list=OLAK5uy_kd5O8kfjFv-VdtXbSs18jZTtnQfC5A7kA" },
+    { type: "vk", url: "https://vk.com/music/album/-2000224506_6224506_eea3be4cd2fd352900" }
 ]
 tags: 
     - "89%"
