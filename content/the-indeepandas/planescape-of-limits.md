@@ -18,7 +18,8 @@ services: [
     { type: "deezer", url: "https://www.deezer.com/en/album/284155342" },
     { type: "spotify", url: "https://open.spotify.com/album/7EK5kAqrsEHw7jFFF8QsaF" },
     { type: "yandex", url: "https://music.yandex.ru/album/20312188" },
-    { type: "youtube", url: "https://www.youtube.com/playlist?list=OLAK5uy_kqDJjpNGK2hKIvNZdlpUkUeH30G1vy1J8" }
+    { type: "youtube", url: "https://www.youtube.com/playlist?list=OLAK5uy_kqDJjpNGK2hKIvNZdlpUkUeH30G1vy1J8" },
+    { type: "vk", url: "https://vk.com/audios9208370?q=indeepandas&z=audio_playlist-2000221381_14221381%2F639bd765308c5c7dc3" }
 ]
 tags: 
     - "the indeepandas"
